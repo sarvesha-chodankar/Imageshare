@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fd3ee3f-2c93-4711-a42b-d898ff929ac3" name="Default Changelist" comment="" />
+    <list default="true" id="0fd3ee3f-2c93-4711-a42b-d898ff929ac3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/assets/js/jquery.poptrox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/assets/js/skel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/fulls/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/fulls/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/fulls/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/fulls/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/fulls/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/fulls/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/fulls/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/thumbs/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/thumbs/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/thumbs/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/thumbs/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/thumbs/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/thumbs/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/static/images/thumbs/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageShare/templates/ImageShare/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageShare/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageShare/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageShare/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageShare/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eJpniW4eQKCmETNThKVK0zgilz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ImageShare/static" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\PycharmProjects\DjangoProject\ImageShare\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\PycharmProjects\DjangoProject\ImageShare\templates\ImagesShare" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -33,5 +82,18 @@
       <updated>1594049725377</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

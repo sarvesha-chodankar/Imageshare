@@ -1,7 +1,7 @@
 from django.urls import path
-from requests import request
-from ImageShare.views import index
+from ImageShare import views
 
 urlpatterns=[
-    path('/index',index(request)),
+    path("", views.index, name="index"),
+    path("login",views.login,name="login"),
 ]
